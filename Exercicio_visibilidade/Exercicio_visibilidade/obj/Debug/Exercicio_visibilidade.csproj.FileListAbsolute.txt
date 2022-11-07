@@ -1,0 +1,7 @@
+C:\Users\lucas.assagra_uscson\source\repos\Exercicio_visibilidade\Exercicio_visibilidade\bin\Debug\Exercicio_visibilidade.exe.config
+C:\Users\lucas.assagra_uscson\source\repos\Exercicio_visibilidade\Exercicio_visibilidade\bin\Debug\Exercicio_visibilidade.exe
+C:\Users\lucas.assagra_uscson\source\repos\Exercicio_visibilidade\Exercicio_visibilidade\bin\Debug\Exercicio_visibilidade.pdb
+C:\Users\lucas.assagra_uscson\source\repos\Exercicio_visibilidade\Exercicio_visibilidade\obj\Debug\Exercicio_visibilidade.csprojAssemblyReference.cache
+C:\Users\lucas.assagra_uscson\source\repos\Exercicio_visibilidade\Exercicio_visibilidade\obj\Debug\Exercicio_visibilidade.csproj.CoreCompileInputs.cache
+C:\Users\lucas.assagra_uscson\source\repos\Exercicio_visibilidade\Exercicio_visibilidade\obj\Debug\Exercicio_visibilidade.exe
+C:\Users\lucas.assagra_uscson\source\repos\Exercicio_visibilidade\Exercicio_visibilidade\obj\Debug\Exercicio_visibilidade.pdb
