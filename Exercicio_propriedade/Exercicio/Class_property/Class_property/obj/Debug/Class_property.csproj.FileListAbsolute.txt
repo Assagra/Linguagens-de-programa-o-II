@@ -1,0 +1,7 @@
+C:\Users\lucas.assagra_uscson\Desktop\Exercicio\Class_property\Class_property\obj\Debug\Class_property.csprojAssemblyReference.cache
+C:\Users\lucas.assagra_uscson\Desktop\Exercicio\Class_property\Class_property\obj\Debug\Class_property.csproj.CoreCompileInputs.cache
+C:\Users\lucas.assagra_uscson\Desktop\Exercicio\Class_property\Class_property\bin\Debug\Class_property.exe.config
+C:\Users\lucas.assagra_uscson\Desktop\Exercicio\Class_property\Class_property\bin\Debug\Class_property.exe
+C:\Users\lucas.assagra_uscson\Desktop\Exercicio\Class_property\Class_property\bin\Debug\Class_property.pdb
+C:\Users\lucas.assagra_uscson\Desktop\Exercicio\Class_property\Class_property\obj\Debug\Class_property.exe
+C:\Users\lucas.assagra_uscson\Desktop\Exercicio\Class_property\Class_property\obj\Debug\Class_property.pdb
